@@ -3,7 +3,7 @@
 **Status**
 
 - 🌱 I'm currently learning on Statistics and Data Science.
-- 👷 I'm currently working on Frontend tutorship especially to novice.
+- 👷 I'm currently working on my board gaming [Wage Guardian].
 
 **Badges**
 
