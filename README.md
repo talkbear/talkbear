@@ -5,10 +5,6 @@
 - 🌱 I'm currently learning on Statistics and Data Science.
 - 👷 I'm currently working on my board gaming [Wage Guardian].
 
-**Badges**
-
-# [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/650f84cfd5295d7a813c4703?variant=light&roadmaps=frontend)](https://roadmap.sh)
-
 
 <!--
 **talkbear/talkbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
