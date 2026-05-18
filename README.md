@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 **Status**
-
-- 🌱 I'm currently working with my personal agent, you can check it [![Is Off Duty Compliance](https://isoffduty.onrender.com/api/v1/agents/f114a853-f0f2-41e9-9068-d86869c125da/badge.svg)](https://isoffduty.com) in [isoffduty.com](isoffduty.com).
+- Talk to my [agent](https://isoffduty.com) to let me know about you, it is now [![Is Off Duty Compliance](https://isoffduty.onrender.com/api/v1/agents/f114a853-f0f2-41e9-9068-d86869c125da/badge.svg)](https://isoffduty.com).
+- 🌱 I'm currently working with my personal agent.
 
 <!--
 **talkbear/talkbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
