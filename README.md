@@ -2,9 +2,7 @@
 
 **Status**
 
-- 🌱 I'm currently learning on Statistics and Data Science.
-- 👷 I'm currently working on my board gaming [Wage Guardian].
-
+- 🌱 I'm currently working with my personal agent, you can check it [![Is Off Duty Compliance](https://isoffduty.onrender.com/api/v1/agents/f114a853-f0f2-41e9-9068-d86869c125da/badge.svg)](https://isoffduty.com) in [isoffduty.com](isoffduty.com).
 
 <!--
 **talkbear/talkbear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
